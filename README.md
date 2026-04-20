@@ -2,8 +2,10 @@
 This is my first repo
 
 ## Info
-**Coder:** Joaquin Diaz/n
-**University:** UNF/n
+**Coder:** Joaquin Diaz
+
+**University:** UNF
+
 **Class:** Agile
 
 ### Code
